@@ -23,7 +23,7 @@ jobs:
       matrix:
         device:
           # sm8250
-          lmi
+          - lmi
           # sm8150
           - mh2lm
           - betalm
